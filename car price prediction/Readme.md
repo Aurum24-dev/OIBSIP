@@ -1,0 +1,1 @@
+This notebook shows a car price predictor based on various factors like fueltype, mileage, transmission, owner, year of purchase. Here the decision tree regressor is used.
